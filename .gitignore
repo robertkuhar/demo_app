@@ -15,3 +15,5 @@ db/*.sqlite3
 
 # vi backup files
 *.swp
+
+.cache_rake_t
